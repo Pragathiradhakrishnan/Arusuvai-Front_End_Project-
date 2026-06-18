@@ -40,6 +40,10 @@ This project was developed to enhance frontend web development skills and gain p
 - JavaScript Functionality
 - E-commerce Website Design
 
+  
+## Future Enhancements
+- Project Link:  https://pragathiradhakrishnan.github.io/Arusuvai-Front_End_Project-/
+
 ## Future Enhancements
 
 - User Authentication
